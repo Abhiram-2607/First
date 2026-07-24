@@ -1,7 +1,7 @@
 # Hi there, I'm Abhi 👋
 
 ## 🚀 About Me
-- 🎓 First-Year B.Tech Computer Science & Engineering (CSE) Student
+- 🎓 second-Year B.Tech Computer Science & Engineering (CSE) Student
 - 🏫 NIAT X Annamacharya
 - 💻 Passionate about Programming, Web Development, and Problem Solving
 - 🌱 Currently learning Data Structures & Algorithms (DSA), Full-Stack Development, and Cloud Computing
